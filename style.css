@@ -1,2 +1,5 @@
 .lw { font-size: 60px; }
-body{background-color:lemonchiffon;}
+body{background-image: url("https://www.waseda.jp/fhum/ghum/assets/uploads/2014/09/d75c6454787e805d5797935539f59e6c-940x627.jpg");
+ background-size:cover;
+ background-attachment:fixed}
+
